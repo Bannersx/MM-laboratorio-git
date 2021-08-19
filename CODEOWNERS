@@ -6,3 +6,14 @@
 # review when someone opens a pull request.
 
 *       @Bannersx @papmora
+
+# These owners will be the owners of the specified directory
+# /dir in the root directory
+
+/java-rest-api @Bannersx @papmora
+
+/api-gateway @Bannersx @papmora
+
+/frontend @Bannersx @papmora
+
+/ml-library @Bannersx @papmora
