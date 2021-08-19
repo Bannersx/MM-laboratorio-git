@@ -3,4 +3,5 @@ def hello_world():
 
 main():
 	print("mhmmmm")
+	print("I love cheese")
 	hello_world()
